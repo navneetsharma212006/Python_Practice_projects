@@ -13,3 +13,7 @@ each_person = total_expense / persons
 
 print("\nTotal flat expense =", total_expense)
 print("Each person should pay =", each_person)
+
+#it is a simple Python program that helps friends or roommates calculate how much each person should pay for shared monthly expenses in a flat or hostel.
+
+# Living with friends often means sharing multiple costs like rent, groceries, electricity, and WiFi. Manually calculating everyone's share can be confusing and time-consuming. This program solves that problem by automatically calculating the amount each person needs to pay.
