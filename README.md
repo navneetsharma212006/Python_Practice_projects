@@ -5,11 +5,14 @@ Here i have listed some python basic projects that i made while practicing , i u
 
 2.TIc Tac TOE - Players select positions using the following grid:
 
+
+
+
 1 | 2 | 3
 ---------
 4 | 5 | 6
 ---------
-7 | 8 | 9
+**7 | 8 | 9**
 
 For example:    Enter 1 to mark the top-left corner.
                 Enter 5 to mark the center.
